@@ -1,2 +1,2 @@
 # Planar-Data-Classification
-Neural Network with 2 hidden layer 
+Neural Network with 1 hidden layer 
